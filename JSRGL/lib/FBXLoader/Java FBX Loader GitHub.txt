@@ -1,0 +1,3 @@
+Java FBX Loader
+by Lukas Eichberg
+documentation: https://github.com/lukaseichberg/Java-FBX-Loader
